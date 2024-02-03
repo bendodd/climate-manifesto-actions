@@ -11,20 +11,20 @@ A manifesto based on a simple set of three policies, with a set of actions curre
 ## I will LEARN and SHARE
 
 1. 📚 I have read these books:
-  1. [There is No Planet B](https://theresnoplanetb.net)
-  2. [The Coming Wave](https://www.the-coming-wave.com)
+    1. [There is No Planet B](https://theresnoplanetb.net)
+    2. [The Coming Wave](https://www.the-coming-wave.com)
 2. 🧑‍🏫 I have commpleted these courses:
-  1. ??
-  2. ??	
+    1. ??
+    2. ??	
 3. 💸 I financially contribute to these groups:
-  1. ??
-  2. ??	
+    1. ??
+    2. ??	
 4. 💁 I am a member of these groups:
-  1. ??
-  2. ??	
+    1. ??
+    2. ??	
 5. 🎤 I have contributed to these sessions:
-  1. ??
-  2. ??	
+    1. ??
+    2. ??	
 
 ## I will take every opportunity at my WORKPLACE
 
