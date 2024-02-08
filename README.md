@@ -45,6 +45,7 @@ The idea isn't to compete with others, but to learn about impactful ideas I coul
   6. [Hero Labs](https://herocircle.app) ([🎥 watch why](https://tedxlondon.com/topic/environment/why-citizens-need-to-fund-climate-activists-mauricio-porras-tedxlondon/))
   7. [Beam](https://beam.org)
   8. [TED Countdown](https://countdown.ted.com)
+  9. [ClimateActionTech](https://climateaction.tech/)
 
 ### 💁 I am also a member of these groups:
   1. ??
