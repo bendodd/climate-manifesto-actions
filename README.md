@@ -32,11 +32,14 @@ The idea isn't to compete with others, but to learn about impactful ideas I coul
   1. [Green Software for Practitioners (LFC131)](https://training.linuxfoundation.org/training/green-software-for-practitioners-lfc131/)
   2. [Sustainable Lifestyles](https://www.unssc.org/courses/sustainable-lifestyles-0)
   3. Currently taking:
+ 
       1. [Digital4Sustainability Learning Path](https://www.unssc.org/courses/digital4sustainability-learning-path)
       2. [Communicating Climate Change](https://apolitical.co/microcourses/en/communicating-climate-change/)
       3. [EarthDay Climate Education](https://www.earthday.org/campaign/climate-environmental-literacy/)
+  3. Looking to take next:
 
 ### 💸 I financially contribute to these groups:
+
   1. [Climate Town](https://www.climatetownproductions.com)
   2. [Stop Burning Stuff](https://www.patreon.com/STOPBurningStuff)
   3. [Ecologi](https://ecologi.com/puddedodds)
@@ -48,7 +51,8 @@ The idea isn't to compete with others, but to learn about impactful ideas I coul
   9. [ClimateActionTech](https://climateaction.tech/)
 
 ### 💁 I am also a member of these groups:
-  1. ??
+
+  1. [Terra.do](https://www.terra.do)
 
 ### 🎤 I have contributed to these sessions / events / communities:
   1. [Agile Sustainability Initiative](https://www.agilealliance.org/resources/initiatives/agile-sustainability-initiative/)
@@ -68,12 +72,16 @@ The idea isn't to compete with others, but to learn about impactful ideas I coul
 
 ### As a family
 
-1. 💸 We save 10% of income for a climate action fund
+1. 💸 We save 10% of income for a climate action fund (We "tax" all non-essential spending (non-food/accomodation etc) 10% to create a ring-fenced fund for use realising the goals of this manifesto)
 2. 🛬 We no longer fly (starting 2016)
 3. 🚗 We drive an electic vehicle (EV)
 4. 🌬️ We only consume electricity when the grid's [carbon intensitiy](https://carbonintensity.org.uk) is at it's lowest for the next 4 day period, otherwise we don't consume:
+
     1. Charge the car
     2. Wash our clothes
-5. 🔥 We removed our gas hob, infavour of induction [(🎥 watch why)](https://www.youtube.com/watch?v=hX2aZUav-54)
+
+5. 🔥 We are working to de-decarbonise our home:
+
+    1. We removed our gas hob, infavour of induction [(🎥 watch why)](https://www.youtube.com/watch?v=hX2aZUav-54)
 
 
